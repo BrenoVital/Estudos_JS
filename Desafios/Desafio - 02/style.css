@@ -1,0 +1,15 @@
+button{
+    background-color: #CCC;
+    width: 120px;
+    height: 50px;
+    border: 1px solid #000;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #000;
+    color: #FFF;
+    transform: scale(1.1);
+}
+
